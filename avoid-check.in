@@ -1,0 +1,38 @@
+setup
++ k a8
++ r d8
++ r c7
++ K b1
++ P a2
+= black
+done
+game human human
+move d8 b8
+move b1 a1
+resign
+
+setup
++ k a8
++ r d8
++ r c7
++ K b1
++ R a2
+= black
+done
+game human human
+move d8 b8
+move a2 b2
+resign
+
+setup
++ k a8
++ r d8
++ r c7
++ K b1
++ B a7
+= black
+done
+game human human
+move d8 b8
+move a7 a8
+resign

@@ -1,0 +1,16 @@
+setup
++ K a1
++ k a8
++ P c8
++ p d8
++ P c1
++ p d1
+done
+- c8
+done
+- d8
+done
+- c1
+done
+- d1
+done

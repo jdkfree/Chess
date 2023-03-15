@@ -1,0 +1,13 @@
+setup
++ K a1
++ k a8
++ R a2
+done
+- a2
++ p b7
+done
+- b7
++ r h1
+done
+- h1
+done

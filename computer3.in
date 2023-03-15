@@ -1,0 +1,16 @@
+setup
++ R a2
++ R b2
++ R c2
++ R d2
++ R f2
++ R g2
++ R h2
++ K a1
++ k e8
++ r e7
++ R d1
+done
+game human computer3
+move a1 b1
+move

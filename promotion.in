@@ -1,0 +1,12 @@
+setup
++ K b1
++ k a8
++ R e7
++ R b2
++ P h7
++ p h2
+done
+game human computer1
+move h7 h8
+n
+move

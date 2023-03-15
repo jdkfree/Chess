@@ -1,0 +1,33 @@
+setup
++ K a1
++ k a8
++ N c3
+done
+game human human
+move c3 e4
+move a8 a7
+move e4 e5
+move e4 d5
+move e4 g4
+move e4 d6
+move a7 a8
+move d6 b5
+move a8 a7
+move a8 b8
+move b5 c3
+resign
+
+setup
++ K a1
++ k a8
++ N d5
+done
+game human computer1
+move d5 c3
+move
+move c3 e2
+move
+move e2 f4
+move
+move f4 d5
+resign

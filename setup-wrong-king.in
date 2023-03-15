@@ -1,0 +1,35 @@
+setup
++ P a2
++ P b2
++ P c2
++ P d2
++ P e2
++ P f2
++ P g2
++ P h2
++ Q d1
++ p a7
++ p b7
++ p c7
++ p d7
++ p e7
++ p f7
++ p g7
++ p h7
++ q d8
+done
++ K e1
+done
+- e1
++ k e8
+done
++ k h8
++ K e1
+done
+- h8
++ K g1
++ K h1
+done
+- g1
+- h1
+done

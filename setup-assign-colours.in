@@ -1,0 +1,28 @@
+setup
++ K a1
++ k a8
+done
+game human human
+move a8 a7
+move a1 a2
+resign
+
+setup
++ K a1
++ k a8
+= black
+done
+game human human
+move a8 a7
+move a1 a2
+resign
+
+setup
++ K a1
++ k a8
+= white
+done
+game human human
+move a8 a7
+move a1 a2
+resign

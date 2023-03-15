@@ -1,0 +1,10 @@
+setup
++ K b1
++ N c4
++ k a8
++ r a7
++ r b8
++ b b7
+done
+game human human
+move c4 b6

@@ -1,0 +1,23 @@
+setup
++ K a1
++ k a8
++ P c2
++ p c4
++ P d2
++ P d4
++ r d8
++ P e2
++ p e3
++ b h7
++ P f5
+done
+game human human
+move c2 c4
+move d2 d4
+move e2 e3
+move c2 c3
+move d8 d3
+move d8 d1
+move h7 d3
+move h7 g5
+resign
